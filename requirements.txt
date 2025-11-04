@@ -1,0 +1,4 @@
+# requirements.txt (Py3.12 compatible)
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.4.0
